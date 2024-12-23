@@ -25,7 +25,7 @@ const swapInstructionUrl = "http://127.0.0.1:8080/swap-instructions";
 
 // WSOL and USDC mint address
 const wSolMint = "So11111111111111111111111111111111111111112";
-const usdcMint = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v";
+const usdcMint = "5DQSDg6SGkbsbykq4mQstpcL4d5raEHc6rY7LgBwpump"; //"EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v";
 
 const wait = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
